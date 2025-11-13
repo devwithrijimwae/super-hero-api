@@ -9,4 +9,4 @@
         public required string Place { get; set; } = string.Empty;
     }
 }
-}
+
